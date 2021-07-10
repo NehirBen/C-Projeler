@@ -1,0 +1,29 @@
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\bin\Debug\Renkler.exe.config
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\bin\Debug\Renkler.exe
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\bin\Debug\Renkler.pdb
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.csprojAssemblyReference.cache
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.Properties.Resources.resources
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.csproj.GenerateResource.cache
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.exe
+C:\Users\o\Desktop\Discord Visual Studio\Renkler\Renkler\obj\Debug\Renkler.pdb
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.csprojAssemblyReference.cache
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.fr_Renkler.resources
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.Properties.Resources.resources
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.csproj.GenerateResource.cache
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.exe
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\obj\Debug\Renkler.pdb
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\bin\Debug\Renkler.exe.config
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\bin\Debug\Renkler.exe
+C:\Users\o\Desktop\Discord Visual Studio\Windos Form\Renkler\Renkler\bin\Debug\Renkler.pdb
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\bin\Debug\Renkler.exe.config
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\bin\Debug\Renkler.exe
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\bin\Debug\Renkler.pdb
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.csprojAssemblyReference.cache
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.Fr_Renkler.resources
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.Properties.Resources.resources
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.csproj.GenerateResource.cache
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.csproj.CoreCompileInputs.cache
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.exe
+C:\Users\o\OneDrive\Belgeler\Discord Visual Studio\Windos Form\Projeler\Renkler\Renkler\obj\Debug\Renkler.pdb
