@@ -1,0 +1,78 @@
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_AnaForm.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Foto_Galeri.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_giris.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Tablo.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2_1.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\o\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\o\Desktop\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\o\Desktop\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_AnaForm.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Foto_Galeri.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_giris.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Tablo.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2_1.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\o\Desktop\Discord Visual Studio\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_AnaForm.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Foto_Galeri.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_giris.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Tablo.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2_1.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\o\Desktop\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_AnaForm.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Foto_Galeri.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_giris.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Tablo.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.fr_ozellikler.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.fr_urun_karti.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2_1.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+D:\downloads\ntp_projeler\stok_otomasyon\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe.config
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.exe
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\bin\Debug\stok_takip.pdb
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csprojAssemblyReference.cache
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_AnaForm.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Foto_Galeri.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_giris.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_Tablo.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.fr_ozellikler.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.fr_urun_karti.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Fr_TabloV2_1.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.Properties.Resources.resources
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.GenerateResource.cache
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.csproj.CoreCompileInputs.cache
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.exe
+C:\Users\o\Desktop\stok_otomasyon_nehir\Proje\stok_takip\stok_takip\obj\Debug\stok_takip.pdb
